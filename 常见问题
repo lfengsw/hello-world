@@ -1,3 +1,5 @@
 1.IE启动webdriver,提示This is the initial start page for the WebDriver server
 
 处理1：查看ie浏览器页面显示比例是否为100%
+
+2. airtest多设备运行参考->https://github.com/saint228/DreamMultiDevices
